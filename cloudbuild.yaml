@@ -31,3 +31,5 @@ steps:
         sudo docker run -d --name app-container -p 80:80 gcr.io/$PROJECT_ID/app-image
 
 timeout: '600s'
+
+options:
