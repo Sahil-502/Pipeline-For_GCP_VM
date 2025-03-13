@@ -33,3 +33,4 @@ steps:
 timeout: '600s'
 
 options:
+  logging: NONE
