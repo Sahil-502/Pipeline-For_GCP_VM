@@ -1,0 +1,28 @@
+steps:
+  # Step 1: Pull code from GitHub
+  - name: 'gcr.io/cloud-builders/git'
+    args: ['clone', 'https://github.com/sahilhr24/GCE-with-cloud-build.git']
+
+  # Step 2: Build Docker image (Optional)
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/app-image', '.']
+
+  # Step 3: Push Docker image to Artifact Registry (Optional)
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/app-image']
+
+  # Step 4: SSH into VM and deploy the app
+  - name: 'gcr.io/cloud-builders/gcloud'
+    args:
+      - 'compute'
+      - 'ssh'
+      - 'build@docker-vm'
+      - '--zone=us-central1-b'
+      - '--command'
+      - |
+        sudo docker pull gcr.io/$PROJECT_ID/app-image
+        sudo docker stop app-container || true
+        sudo docker rm app-container || true
+        sudo docker run -d --name app-container -p 80:80 gcr.io/$PROJECT_ID/app-image
+
+timeout: '600s'
