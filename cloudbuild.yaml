@@ -21,8 +21,8 @@ steps:
     args:
       - 'compute'
       - 'ssh'
-      - 'build@docker-vm'
-      - '--zone=us-central1-b'
+      - 'sahilhr24@vm01'
+      - '--zone=us-central1-c'
       - '--command'
       - |
         sudo docker pull gcr.io/$PROJECT_ID/app-image
