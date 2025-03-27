@@ -21,7 +21,7 @@ steps:
     args:
       - 'compute'
       - 'ssh'
-      - 'sahilhr24@vm01'
+      - 'sahil@vm01'
       - '--zone=us-central1-c'
       - '--command'
       - |
