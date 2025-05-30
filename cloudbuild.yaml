@@ -6,7 +6,7 @@
 steps:
   # Step 1: Pull code from GitHub
   - name: 'gcr.io/cloud-builders/git'
-    args: ['clone', 'https://github.com/sahilhr24/GCE-with-cloud-build.git']
+    args: ['clone', 'https://github.com/Sahil-502/Pipeline-For_GCP_VM.git']
 
   # Step 2: Build Docker image (Optional)
   - name: 'gcr.io/cloud-builders/docker'
