@@ -371,7 +371,7 @@
 23-06-2025  10:42 AM            97,280 CastLaunch.dll
 23-06-2025  10:42 AM            63,704 CastSrv.exe
 07-12-2019  03:01 PM    <DIR>          CatRoot
-02-07-2025  10:06 AM    <DIR>          catroot2
+03-07-2025  10:50 AM    <DIR>          catroot2
 23-06-2025  10:41 AM           478,720 catsrv.dll
 07-12-2019  02:38 PM            48,128 catsrvps.dll
 23-06-2025  10:41 AM           522,240 catsrvut.dll
@@ -1039,9 +1039,9 @@
 23-06-2025  10:42 AM            47,616 DragDropExperienceCommon.dll
 23-06-2025  10:42 AM            47,616 DragDropExperienceDataExchangeDelegated.dll
 07-12-2019  02:39 PM            87,552 driverquery.exe
-25-06-2025  09:32 PM    <DIR>          drivers
+03-07-2025  10:50 AM    <DIR>          drivers
 07-12-2019  02:44 PM    <DIR>          DriverState
-24-06-2025  10:45 AM    <DIR>          DriverStore
+03-07-2025  10:50 AM    <DIR>          DriverStore
 23-06-2025  10:42 AM            26,624 drprov.dll
 23-06-2025  10:42 AM           283,648 drt.dll
 23-06-2025  10:42 AM            13,175 DrtmAuthTxt.wim
@@ -3308,7 +3308,7 @@
 23-06-2025  10:48 AM    <DIR>          sl-SI
 23-06-2025  10:41 AM           146,944 slc.dll
 23-06-2025  10:41 AM            22,528 slcext.dll
-02-07-2025  10:06 AM    <DIR>          SleepStudy
+03-07-2025  11:11 AM    <DIR>          SleepStudy
 07-12-2019  02:38 PM            20,352 SlideToShutDown.exe
 07-12-2019  03:20 PM    <DIR>          slmgr
 07-12-2019  02:38 PM           142,904 slmgr.vbs
@@ -3412,7 +3412,7 @@
 07-12-2019  03:23 PM            40,960 SrpUxNativeSnapIn.dll
 23-06-2025  10:42 AM           252,416 srrstr.dll
 23-06-2025  10:42 AM            59,392 SrTasks.exe
-02-07-2025  11:08 AM    <DIR>          sru
+03-07-2025  11:23 AM    <DIR>          sru
 23-06-2025  10:42 AM            65,024 srumapi.dll
 23-06-2025  10:42 AM           243,200 srumsvc.dll
 23-06-2025  10:41 AM           118,984 srvcli.dll
@@ -4543,4 +4543,4 @@
 23-06-2025  10:41 AM           309,248 zipfldr.dll
 07-12-2019  02:38 PM            30,720 ztrace_maps.dll
             4414 File(s)  2,003,492,139 bytes
-             125 Dir(s)  248,670,314,496 bytes free
+             125 Dir(s)  247,778,869,248 bytes free
