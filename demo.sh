@@ -3,8 +3,8 @@
 
  Directory of C:\Windows\system32
 
-02-07-2025  10:30 AM    <DIR>          .
-02-07-2025  10:30 AM    <DIR>          ..
+04-07-2025  02:19 PM    <DIR>          .
+04-07-2025  02:19 PM    <DIR>          ..
 23-06-2025  11:15 PM    <DIR>          %userprofile%
 07-12-2019  03:20 PM    <DIR>          0409
 07-12-2019  02:38 PM            12,088 69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll
@@ -371,7 +371,7 @@
 23-06-2025  10:42 AM            97,280 CastLaunch.dll
 23-06-2025  10:42 AM            63,704 CastSrv.exe
 07-12-2019  03:01 PM    <DIR>          CatRoot
-03-07-2025  10:50 AM    <DIR>          catroot2
+04-07-2025  02:19 PM    <DIR>          catroot2
 23-06-2025  10:41 AM           478,720 catsrv.dll
 07-12-2019  02:38 PM            48,128 catsrvps.dll
 23-06-2025  10:41 AM           522,240 catsrvut.dll
@@ -1039,9 +1039,9 @@
 23-06-2025  10:42 AM            47,616 DragDropExperienceCommon.dll
 23-06-2025  10:42 AM            47,616 DragDropExperienceDataExchangeDelegated.dll
 07-12-2019  02:39 PM            87,552 driverquery.exe
-03-07-2025  10:50 AM    <DIR>          drivers
+05-07-2025  09:23 AM    <DIR>          drivers
 07-12-2019  02:44 PM    <DIR>          DriverState
-03-07-2025  10:50 AM    <DIR>          DriverStore
+05-07-2025  09:23 AM    <DIR>          DriverStore
 23-06-2025  10:42 AM            26,624 drprov.dll
 23-06-2025  10:42 AM           283,648 drt.dll
 23-06-2025  10:42 AM            13,175 DrtmAuthTxt.wim
@@ -2375,10 +2375,10 @@
 01-02-2002  07:02 PM           608,080 msvcp100.dll
 23-06-2025  10:41 AM           561,568 msvcp110_win.dll
 07-12-2019  02:40 PM           690,008 msvcp120_clr0400.dll
-01-02-2002  07:02 PM           575,056 msvcp140.dll
-01-02-2002  07:02 PM            35,920 msvcp140_1.dll
-01-02-2002  07:02 PM           268,912 msvcp140_2.dll
-01-02-2002  07:02 PM            50,792 msvcp140_atomic_wait.dll
+01-02-2002  07:02 PM           575,592 msvcp140.dll
+01-02-2002  07:02 PM            35,944 msvcp140_1.dll
+01-02-2002  07:02 PM           267,880 msvcp140_2.dll
+01-02-2002  07:02 PM            50,256 msvcp140_atomic_wait.dll
 25-06-2022  03:01 AM           571,280 msvcp140_clr0400.dll
 01-02-2002  07:02 PM            31,824 msvcp140_codecvt_ids.dll
 07-12-2019  02:38 PM           611,840 msvcp60.dll
@@ -3308,7 +3308,7 @@
 23-06-2025  10:48 AM    <DIR>          sl-SI
 23-06-2025  10:41 AM           146,944 slc.dll
 23-06-2025  10:41 AM            22,528 slcext.dll
-04-07-2025  10:05 AM    <DIR>          SleepStudy
+05-07-2025  09:45 AM    <DIR>          SleepStudy
 07-12-2019  02:38 PM            20,352 SlideToShutDown.exe
 07-12-2019  03:20 PM    <DIR>          slmgr
 07-12-2019  02:38 PM           142,904 slmgr.vbs
@@ -3412,7 +3412,7 @@
 07-12-2019  03:23 PM            40,960 SrpUxNativeSnapIn.dll
 23-06-2025  10:42 AM           252,416 srrstr.dll
 23-06-2025  10:42 AM            59,392 SrTasks.exe
-04-07-2025  11:17 AM    <DIR>          sru
+05-07-2025  11:28 AM    <DIR>          sru
 23-06-2025  10:42 AM            65,024 srumapi.dll
 23-06-2025  10:42 AM           243,200 srumsvc.dll
 23-06-2025  10:41 AM           118,984 srvcli.dll
@@ -3800,11 +3800,11 @@
 23-06-2025  10:42 AM            85,504 vbssysprep.dll
 23-06-2025  10:41 AM           188,416 VCardParser.dll
 01-02-2002  07:02 PM           351,824 vccorlib140.dll
-01-02-2002  07:02 PM           119,888 vcruntime140.dll
+01-02-2002  07:02 PM           120,432 vcruntime140.dll
 01-02-2002  07:02 PM            49,744 vcruntime140_1.dll
 25-06-2022  03:01 AM            37,800 vcruntime140_1_clr0400.dll
 25-06-2022  03:01 AM            98,728 vcruntime140_clr0400.dll
-01-02-2002  07:02 PM            38,480 vcruntime140_threads.dll
+01-02-2002  07:02 PM            38,504 vcruntime140_threads.dll
 23-06-2025  10:41 AM           724,480 vds.exe
 23-06-2025  10:41 AM           256,000 vdsbas.dll
 23-06-2025  10:42 AM           603,648 vdsdyn.dll
@@ -4542,5 +4542,5 @@
 07-12-2019  02:38 PM            79,872 zipcontainer.dll
 23-06-2025  10:41 AM           309,248 zipfldr.dll
 07-12-2019  02:38 PM            30,720 ztrace_maps.dll
-            4414 File(s)  2,003,492,139 bytes
-             125 Dir(s)  242,703,691,776 bytes free
+            4414 File(s)  2,003,491,699 bytes
+             125 Dir(s)  238,108,356,608 bytes free
