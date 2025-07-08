@@ -538,7 +538,7 @@
 23-06-2025  10:41 AM         1,724,928 comsvcs.dll
 23-06-2025  10:41 AM           859,136 comuid.dll
 01-02-2002  07:02 PM           322,640 concrt140.dll
-01-07-2025  08:40 AM    <DIR>          config
+08-07-2025  11:06 AM    <DIR>          config
 23-06-2025  10:41 AM           713,216 configmanager2.dll
 23-06-2025  10:41 AM            82,432 ConfigureExpandedStorage.dll
 23-06-2025  10:41 AM           867,840 conhost.exe
@@ -3308,7 +3308,7 @@
 23-06-2025  10:48 AM    <DIR>          sl-SI
 23-06-2025  10:41 AM           146,944 slc.dll
 23-06-2025  10:41 AM            22,528 slcext.dll
-07-07-2025  11:44 AM    <DIR>          SleepStudy
+08-07-2025  10:09 AM    <DIR>          SleepStudy
 07-12-2019  02:38 PM            20,352 SlideToShutDown.exe
 07-12-2019  03:20 PM    <DIR>          slmgr
 07-12-2019  02:38 PM           142,904 slmgr.vbs
@@ -3412,7 +3412,7 @@
 07-12-2019  03:23 PM            40,960 SrpUxNativeSnapIn.dll
 23-06-2025  10:42 AM           252,416 srrstr.dll
 23-06-2025  10:42 AM            59,392 SrTasks.exe
-07-07-2025  12:04 PM    <DIR>          sru
+08-07-2025  11:55 AM    <DIR>          sru
 23-06-2025  10:42 AM            65,024 srumapi.dll
 23-06-2025  10:42 AM           243,200 srumsvc.dll
 23-06-2025  10:41 AM           118,984 srvcli.dll
@@ -4543,4 +4543,4 @@
 23-06-2025  10:41 AM           309,248 zipfldr.dll
 07-12-2019  02:38 PM            30,720 ztrace_maps.dll
             4414 File(s)  2,003,491,699 bytes
-             125 Dir(s)  241,873,838,080 bytes free
+             125 Dir(s)  241,506,648,064 bytes free
