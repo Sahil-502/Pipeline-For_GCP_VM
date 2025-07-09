@@ -3,8 +3,8 @@
 
  Directory of C:\Windows\system32
 
-04-07-2025  02:19 PM    <DIR>          .
-04-07-2025  02:19 PM    <DIR>          ..
+09-07-2025  10:27 AM    <DIR>          .
+09-07-2025  10:27 AM    <DIR>          ..
 23-06-2025  11:15 PM    <DIR>          %userprofile%
 07-12-2019  03:20 PM    <DIR>          0409
 07-12-2019  02:38 PM            12,088 69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll
@@ -371,7 +371,7 @@
 23-06-2025  10:42 AM            97,280 CastLaunch.dll
 23-06-2025  10:42 AM            63,704 CastSrv.exe
 07-12-2019  03:01 PM    <DIR>          CatRoot
-04-07-2025  02:19 PM    <DIR>          catroot2
+09-07-2025  10:30 AM    <DIR>          catroot2
 23-06-2025  10:41 AM           478,720 catsrv.dll
 07-12-2019  02:38 PM            48,128 catsrvps.dll
 23-06-2025  10:41 AM           522,240 catsrvut.dll
@@ -538,7 +538,7 @@
 23-06-2025  10:41 AM         1,724,928 comsvcs.dll
 23-06-2025  10:41 AM           859,136 comuid.dll
 01-02-2002  07:02 PM           322,640 concrt140.dll
-08-07-2025  11:06 AM    <DIR>          config
+09-07-2025  10:34 AM    <DIR>          config
 23-06-2025  10:41 AM           713,216 configmanager2.dll
 23-06-2025  10:41 AM            82,432 ConfigureExpandedStorage.dll
 23-06-2025  10:41 AM           867,840 conhost.exe
@@ -2782,7 +2782,7 @@
 23-06-2025  10:41 AM           648,320 policymanager.dll
 23-06-2025  10:41 AM           289,792 policymanagerprecheck.dll
 23-06-2025  10:41 AM           354,304 polstore.dll
-10-05-2025  10:20 AM           502,784 poqexec.exe
+26-06-2025  09:49 AM           498,176 poqexec.exe
 23-06-2025  10:42 AM           642,048 PortableDeviceApi.dll
 23-06-2025  10:42 AM           128,000 PortableDeviceClassExtension.dll
 23-06-2025  10:42 AM            69,632 PortableDeviceConnectApi.dll
@@ -3308,7 +3308,7 @@
 23-06-2025  10:48 AM    <DIR>          sl-SI
 23-06-2025  10:41 AM           146,944 slc.dll
 23-06-2025  10:41 AM            22,528 slcext.dll
-08-07-2025  10:09 AM    <DIR>          SleepStudy
+09-07-2025  10:49 AM    <DIR>          SleepStudy
 07-12-2019  02:38 PM            20,352 SlideToShutDown.exe
 07-12-2019  03:20 PM    <DIR>          slmgr
 07-12-2019  02:38 PM           142,904 slmgr.vbs
@@ -3412,7 +3412,7 @@
 07-12-2019  03:23 PM            40,960 SrpUxNativeSnapIn.dll
 23-06-2025  10:42 AM           252,416 srrstr.dll
 23-06-2025  10:42 AM            59,392 SrTasks.exe
-08-07-2025  11:55 AM    <DIR>          sru
+09-07-2025  11:49 AM    <DIR>          sru
 23-06-2025  10:42 AM            65,024 srumapi.dll
 23-06-2025  10:42 AM           243,200 srumsvc.dll
 23-06-2025  10:41 AM           118,984 srvcli.dll
@@ -3541,7 +3541,7 @@
 07-12-2019  02:39 PM           101,376 taskkill.exe
 07-12-2019  02:39 PM           106,496 tasklist.exe
 23-06-2025  10:41 AM         1,359,456 Taskmgr.exe
-02-07-2025  10:36 AM    <DIR>          Tasks
+08-07-2025  12:05 PM    <DIR>          Tasks
 23-06-2025  10:41 AM           708,720 taskschd.dll
 07-12-2019  02:39 PM           145,059 taskschd.msc
 23-06-2025  10:41 AM            59,392 TaskSchdPS.dll
@@ -4542,5 +4542,5 @@
 07-12-2019  02:38 PM            79,872 zipcontainer.dll
 23-06-2025  10:41 AM           309,248 zipfldr.dll
 07-12-2019  02:38 PM            30,720 ztrace_maps.dll
-            4414 File(s)  2,003,491,699 bytes
-             125 Dir(s)  241,506,648,064 bytes free
+            4414 File(s)  2,003,487,091 bytes
+             125 Dir(s)  239,652,917,248 bytes free
