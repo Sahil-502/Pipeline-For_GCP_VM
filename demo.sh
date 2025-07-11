@@ -3,8 +3,8 @@
 
  Directory of C:\Windows\system32
 
-10-07-2025  11:46 AM    <DIR>          .
-10-07-2025  11:46 AM    <DIR>          ..
+10-07-2025  04:06 PM    <DIR>          .
+10-07-2025  04:06 PM    <DIR>          ..
 23-06-2025  11:15 PM    <DIR>          %userprofile%
 07-12-2019  03:20 PM    <DIR>          0409
 07-12-2019  02:38 PM            12,088 69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll
@@ -998,6 +998,7 @@
 07-12-2019  02:38 PM           155,136 dmwmicsp.dll
 23-06-2025  10:41 AM           111,104 dmxmlhelputils.dll
 23-06-2025  10:41 AM           821,912 dnsapi.dll
+10-07-2025  04:08 PM               138 dnscache.json
 23-06-2025  10:41 AM            33,792 dnscacheugc.exe
 23-06-2025  10:42 AM           133,632 dnscmmc.dll
 07-12-2019  02:39 PM             9,728 dnsext.dll
@@ -2709,18 +2710,18 @@
 07-12-2019  02:39 PM            15,872 PerceptionSimulation.ProxyStubs.dll
 23-06-2025  10:42 AM           553,984 PerceptionSimulationExtensions.dll
 23-06-2025  10:42 AM           806,400 PerceptionSimulationManager.dll
-10-07-2025  11:46 AM           126,260 perfc009.dat
+10-07-2025  03:00 PM           126,260 perfc009.dat
 23-06-2025  10:41 AM            47,616 perfctrs.dll
 07-12-2019  02:42 PM            33,424 perfd009.dat
 23-06-2025  10:41 AM            43,008 perfdisk.dll
-10-07-2025  11:46 AM           678,104 perfh009.dat
+10-07-2025  03:00 PM           678,104 perfh009.dat
 07-12-2019  02:42 PM           297,062 perfi009.dat
 07-12-2019  02:39 PM           181,760 perfmon.exe
 07-12-2019  02:39 PM           145,519 perfmon.msc
 23-06-2025  10:41 AM            27,136 perfnet.dll
 23-06-2025  10:41 AM            42,496 perfos.dll
 23-06-2025  10:41 AM            46,080 perfproc.dll
-10-07-2025  11:46 AM           795,742 PerfStringBackup.INI
+10-07-2025  03:00 PM           795,742 PerfStringBackup.INI
 07-12-2019  02:39 PM            83,456 perftrack.dll
 23-06-2025  10:42 AM            83,456 perfts.dll
 23-06-2025  10:41 AM           148,992 PersonalizationCSP.dll
@@ -3311,7 +3312,7 @@
 23-06-2025  10:48 AM    <DIR>          sl-SI
 23-06-2025  10:41 AM           146,944 slc.dll
 23-06-2025  10:41 AM            22,528 slcext.dll
-10-07-2025  11:38 AM    <DIR>          SleepStudy
+11-07-2025  09:42 AM    <DIR>          SleepStudy
 07-12-2019  02:38 PM            20,352 SlideToShutDown.exe
 07-12-2019  03:20 PM    <DIR>          slmgr
 07-12-2019  02:38 PM           142,904 slmgr.vbs
@@ -3415,7 +3416,7 @@
 07-12-2019  03:23 PM            40,960 SrpUxNativeSnapIn.dll
 23-06-2025  10:42 AM           252,416 srrstr.dll
 23-06-2025  10:42 AM            59,392 SrTasks.exe
-10-07-2025  11:42 AM    <DIR>          sru
+11-07-2025  11:44 AM    <DIR>          sru
 23-06-2025  10:42 AM            65,024 srumapi.dll
 23-06-2025  10:42 AM           243,200 srumsvc.dll
 23-06-2025  10:41 AM           118,984 srvcli.dll
@@ -4545,5 +4546,5 @@
 07-12-2019  02:38 PM            79,872 zipcontainer.dll
 23-06-2025  10:41 AM           309,248 zipfldr.dll
 07-12-2019  02:38 PM            30,720 ztrace_maps.dll
-            4417 File(s)  2,005,569,075 bytes
-             125 Dir(s)  239,661,096,960 bytes free
+            4418 File(s)  2,005,569,213 bytes
+             125 Dir(s)  224,579,690,496 bytes free
