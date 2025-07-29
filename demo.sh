@@ -3,10 +3,11 @@
 
  Directory of C:\Windows\System32
 
-28-07-2025  11:27 AM    <DIR>          .
+29-07-2025  10:51 AM    <DIR>          .
 22-07-2025  12:07 PM    <DIR>          ..
 22-07-2025  12:04 PM    <DIR>          %userprofile%
 07-05-2022  01:00 PM    <DIR>          0409
+22-07-2025  11:42 AM            26,040 07409496-a423-4a3e-b620-2cfb01a9318d_HyperV-ComputeNetwork.dll
 22-07-2025  11:41 AM            26,056 0ae3b998-9a38-4b72-a4c4-06849441518d_Servicing-Stack.dll
 22-07-2025  11:42 AM            26,016 4545ffe2-0dc4-4df4-9d02-299ef204635e_hvsocket.dll
 22-07-2025  11:41 AM            26,040 69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll
@@ -56,6 +57,7 @@
 07-05-2022  10:49 AM           218,456 ActionQueue.dll
 22-07-2025  11:41 AM           196,608 ActivationClient.dll
 22-07-2025  11:41 AM         1,056,768 ActivationManager.dll
+22-07-2025  11:42 AM           427,032 ActivationVdev.dll
 07-05-2022  10:49 AM           307,200 activeds.dll
 07-05-2022  10:49 AM           122,880 activeds.tlb
 07-05-2022  10:49 AM             8,321 ActiveHours.png
@@ -204,6 +206,7 @@
 07-05-2022  10:49 AM           122,880 atl.dll
 07-05-2022  10:49 AM            57,344 atlthunk.dll
 22-07-2025  11:41 AM            73,728 atmlib.dll
+07-05-2022  02:42 PM            57,344 AttestationWmiProvider.dll
 07-05-2022  10:50 AM            40,960 attrib.exe
 22-07-2025  11:41 AM           935,320 audiodg.exe
 22-07-2025  11:41 AM           561,152 AudioEndpointBuilder.dll
@@ -282,6 +285,7 @@
 07-05-2022  01:09 PM            57,344 bdeui.dll
 22-07-2025  11:42 AM            77,824 BdeUISrv.exe
 07-05-2022  01:09 PM           319,552 bdeunlock.exe
+29-07-2025  10:45 AM    <DIR>          BestPractices
 22-07-2025  11:41 AM           933,888 BFE.DLL
 22-07-2025  11:45 AM    <DIR>          bg-BG
 07-05-2022  10:49 AM            49,152 bi.dll
@@ -354,6 +358,7 @@
 22-07-2025  11:42 AM           884,736 Bubbles.scr
 22-07-2025  11:42 AM            90,112 BWContextHandler.dll
 22-07-2025  11:41 AM           110,592 ByteCodeGenerator.exe
+22-07-2025  11:42 AM            26,056 c4d66f00-b6f0-4439-ac9b-c5ea13fe54d7_HyperV-ComputeCore.dll
 22-07-2025  11:45 AM    <DIR>          ca-ES
 22-07-2025  11:41 AM           122,880 cabapi.dll
 22-07-2025  11:41 AM           174,976 cabinet.dll
@@ -377,7 +382,7 @@
 22-07-2025  11:42 AM           126,976 CastLaunch.dll
 07-05-2022  10:50 AM            92,304 CastSrv.exe
 24-07-2025  06:23 PM    <DIR>          CatRoot
-24-07-2025  06:23 PM    <DIR>          catroot2
+29-07-2025  11:15 AM    <DIR>          catroot2
 22-07-2025  11:41 AM           524,288 catsrv.dll
 07-05-2022  10:49 AM            65,536 catsrvps.dll
 22-07-2025  11:41 AM           544,768 catsrvut.dll
@@ -543,7 +548,7 @@
 22-07-2025  11:41 AM         1,757,184 comsvcs.dll
 07-05-2022  10:49 AM           868,352 comuid.dll
 01-02-2002  07:02 PM           322,640 concrt140.dll
-27-07-2025  08:26 PM    <DIR>          config
+29-07-2025  11:03 AM    <DIR>          config
 22-07-2025  11:41 AM           765,952 configmanager2.dll
 22-07-2025  11:41 AM           114,688 ConfigureExpandedStorage.dll
 22-07-2025  11:41 AM         1,044,480 conhost.exe
@@ -769,6 +774,7 @@
 22-07-2025  11:41 AM           696,320 d3d9on12.dll
 22-07-2025  11:41 AM         4,050,944 D3DCompiler_47.dll
 22-07-2025  11:41 AM           199,824 D3DSCache.dll
+22-07-2025  11:42 AM            26,056 d4d78066-e6db-44b7-b5cd-2eb82dce620c_HyperV-ComputeLegacy.dll
 22-07-2025  11:45 AM    <DIR>          da-DK
 22-07-2025  11:41 AM           151,552 dab.dll
 07-05-2022  10:49 AM            32,768 dabapi.dll
@@ -1047,9 +1053,9 @@
 22-07-2025  11:42 AM            73,728 DragDropExperienceCommon.dll
 22-07-2025  11:42 AM            73,728 DragDropExperienceDataExchangeDelegated.dll
 07-05-2022  10:49 AM           102,400 driverquery.exe
-24-07-2025  03:30 PM    <DIR>          drivers
+29-07-2025  10:45 AM    <DIR>          drivers
 07-05-2022  10:54 AM    <DIR>          DriverState
-24-07-2025  03:34 PM    <DIR>          DriverStore
+29-07-2025  11:15 AM    <DIR>          DriverStore
 07-05-2022  10:50 AM            49,152 drprov.dll
 22-07-2025  11:42 AM           290,816 drt.dll
 22-07-2025  11:42 AM            20,911 DrtmAuthTxt.wim
@@ -1186,7 +1192,7 @@
 22-07-2025  11:41 AM            77,824 embeddedmodesvcapi.dll
 22-07-2025  11:41 AM            98,304 EmojiDS.dll
 22-07-2025  11:45 AM    <DIR>          en
-22-07-2025  11:45 AM    <DIR>          en-GB
+29-07-2025  10:45 AM    <DIR>          en-GB
 22-07-2025  11:45 AM    <DIR>          en-IN
 07-05-2022  10:50 AM            57,344 encapi.dll
 22-07-2025  11:42 AM           774,144 energy.dll
@@ -1242,7 +1248,9 @@
 07-05-2022  10:49 AM           299,008 ExSMime.dll
 07-05-2022  10:49 AM            57,344 extrac32.exe
 07-05-2022  10:49 AM            49,152 ExtrasXmlParser.dll
+22-07-2025  11:42 AM            26,016 f1db7d81-95be-4911-935a-8ab71629112a_HyperV-IsolatedVM.dll
 07-05-2022  10:49 AM            24,576 f3ahvoas.dll
+22-07-2025  11:42 AM            26,040 f989b52d-f928-44a3-9bf1-bf0c1da6a0d6_HyperV-DeviceVirtualization.dll
 22-07-2025  11:42 AM           659,456 facecredentialprovider.dll
 22-07-2025  11:41 AM         1,131,904 Facilitator.dll
 22-07-2025  11:41 AM           126,976 Family.Authentication.dll
@@ -1381,7 +1389,7 @@
 22-07-2025  11:42 AM           712,704 FXSSVC.exe
 22-07-2025  11:42 AM           311,296 FXST30.dll
 22-07-2025  11:42 AM           471,040 FXSTIFF.dll
-22-07-2025  11:38 AM    <DIR>          FxsTmp
+29-07-2025  11:33 AM    <DIR>          FxsTmp
 22-07-2025  11:42 AM            73,728 FXSUNATD.exe
 22-07-2025  11:42 AM           241,664 FXSUTILITY.dll
 22-07-2025  11:42 AM            81,920 g711codc.ax
@@ -1429,6 +1437,7 @@
 22-07-2025  11:41 AM         1,359,872 gpsvc.dll
 07-05-2022  10:49 AM            49,152 gptext.dll
 22-07-2025  11:42 AM            53,248 gpupdate.exe
+22-07-2025  11:42 AM           361,928 gpupvdev.dll
 22-07-2025  11:41 AM           212,992 GraphicsCapture.dll
 22-07-2025  11:41 AM           266,240 GraphicsPerfSvc.dll
 07-05-2022  10:49 AM            28,672 grb.rs
@@ -1446,6 +1455,7 @@
 22-07-2025  11:41 AM           126,976 HashtagDS.dll
 07-05-2022  10:49 AM           106,496 hbaapi.dll
 22-07-2025  11:41 AM            90,112 hcproviders.dll
+22-07-2025  11:42 AM           366,048 hcsdiag.exe
 22-07-2025  11:42 AM           344,480 HdcpHandler.dll
 07-05-2022  10:49 AM           405,504 hdwwiz.cpl
 07-05-2022  10:49 AM            77,824 hdwwiz.exe
@@ -1462,7 +1472,12 @@
 22-07-2025  11:41 AM           380,928 HeatCore.dll
 07-05-2022  10:50 AM            28,672 help.exe
 07-05-2022  10:50 AM            86,016 HelpPaneProxy.dll
+22-07-2025  11:42 AM           733,184 hgattest.dll
+22-07-2025  11:42 AM           163,840 hgclientservice.dll
+22-07-2025  11:42 AM            36,864 hgclientserviceps.dll
 22-07-2025  11:41 AM           217,088 hgcpl.dll
+22-07-2025  11:42 AM            86,016 hgsclientplugin.dll
+22-07-2025  11:42 AM           155,648 HgsClientWmi.dll
 07-05-2022  10:50 AM           708,608 hhctrl.ocx
 07-05-2022  10:50 AM            77,824 hhsetup.dll
 07-05-2022  10:49 AM            57,344 hid.dll
@@ -1474,6 +1489,8 @@
 22-07-2025  11:42 AM           493,144 hnetcfg.dll
 22-07-2025  11:41 AM           290,720 HNetCfgClient.dll
 22-07-2025  11:42 AM           131,072 hnetmon.dll
+22-07-2025  11:42 AM           258,048 hnsdiag.exe
+22-07-2025  11:42 AM            36,864 hnsproxy.dll
 22-07-2025  11:42 AM         1,423,360 HologramCompositor.dll
 07-05-2022  01:09 PM        19,492,864 HologramWorld.dll
 22-07-2025  11:42 AM         1,024,000 HolographicExtensions.dll
@@ -1481,7 +1498,9 @@
 22-07-2025  11:42 AM           385,024 HoloShellRuntime.dll
 22-07-2025  11:42 AM           200,704 HoloSHExtensions.dll
 22-07-2025  11:42 AM         1,249,280 HoloSI.PCShell.dll
+07-05-2022  02:42 PM            24,576 HostGuardianServiceClientResources.dll
 22-07-2025  11:42 AM            36,864 HOSTNAME.EXE
+22-07-2025  11:42 AM         4,292,608 HostNetSvc.dll
 07-05-2022  10:49 AM           126,976 hotplug.dll
 22-07-2025  11:45 AM    <DIR>          hr-HR
 22-07-2025  11:41 AM           159,744 HrtfApo.dll
@@ -1497,6 +1516,7 @@
 07-05-2022  10:49 AM            61,440 htui.dll
 22-07-2025  11:45 AM    <DIR>          hu-HU
 22-07-2025  11:42 AM         1,791,360 hvax64.exe
+22-07-2025  11:42 AM           173,488 hvc.exe
 22-07-2025  11:42 AM            91,520 hvhostsvc.dll
 22-07-2025  11:42 AM         1,971,608 hvix64.exe
 22-07-2025  11:42 AM           198,016 hvloader.dll
@@ -1507,6 +1527,7 @@
 22-07-2025  11:41 AM           389,120 hwreqchk.dll
 07-05-2022  01:09 PM    <DIR>          Hydrogen
 07-05-2022  01:09 PM        25,260,032 Hydrogen.dll
+22-07-2025  11:42 AM           210,312 HyperVSysprepProvider.dll
 07-05-2022  10:49 AM            61,440 IA2ComProxy.dll
 07-05-2022  10:54 AM    <DIR>          ias
 22-07-2025  11:42 AM            61,440 ias.dll
@@ -2629,6 +2650,7 @@
 22-07-2025  11:41 AM            86,016 ntprint.exe
 22-07-2025  11:41 AM           708,608 ntshrui.dll
 07-05-2022  10:49 AM            40,960 ntvdm64.dll
+22-07-2025  11:42 AM            66,944 NvAgent.dll
 22-07-2025  11:42 AM           439,712 nvspinfo.exe
 22-07-2025  11:42 AM           651,264 objsel.dll
 22-07-2025  11:42 AM           176,128 occache.dll
@@ -2745,17 +2767,17 @@
 22-07-2025  11:45 AM    <DIR>          PerceptionSimulation
 22-07-2025  11:42 AM            32,768 PerceptionSimulation.ProxyStubs.dll
 22-07-2025  11:42 AM           794,624 PerceptionSimulationManager.dll
-28-07-2025  11:27 AM           128,806 perfc009.dat
+29-07-2025  10:51 AM           128,806 perfc009.dat
 07-05-2022  10:52 AM            33,424 perfd009.dat
 07-05-2022  10:49 AM            65,536 perfdisk.dll
-28-07-2025  11:27 AM           684,596 perfh009.dat
+29-07-2025  10:51 AM           684,596 perfh009.dat
 07-05-2022  10:52 AM           297,062 perfi009.dat
 22-07-2025  11:42 AM           180,224 perfmon.exe
 07-05-2022  10:50 AM           145,519 perfmon.msc
 07-05-2022  10:49 AM            69,632 perfnet.dll
 07-05-2022  10:49 AM            65,536 perfos.dll
 07-05-2022  10:49 AM            69,632 perfproc.dll
-28-07-2025  11:27 AM           804,924 PerfStringBackup.INI
+29-07-2025  10:51 AM           804,924 PerfStringBackup.INI
 07-05-2022  10:50 AM            81,920 perfts.dll
 22-07-2025  11:41 AM           266,240 PersonalizationCSP.dll
 07-05-2022  10:50 AM            75,792 pfclient.dll
@@ -2978,6 +3000,7 @@
 22-07-2025  11:41 AM           319,488 rastlsext.dll
 07-05-2022  10:54 AM    <DIR>          RasToast
 22-07-2025  11:42 AM           626,688 rdbui.dll
+07-05-2022  02:42 PM           144,736 rdp4vs.dll
 22-07-2025  11:42 AM           218,568 RdpAvenc.dll
 22-07-2025  11:41 AM         1,791,416 rdpbase.dll
 07-05-2022  10:50 AM            32,768 rdpcfgex.dll
@@ -3032,6 +3055,7 @@
 22-07-2025  11:42 AM           118,784 RemoteAppLifetimeManager.exe
 22-07-2025  11:42 AM            36,864 RemoteAppLifetimeManagerProxyStub.dll
 22-07-2025  11:41 AM           117,264 remoteaudioendpoint.dll
+22-07-2025  11:42 AM           258,048 RemoteFileBrowse.dll
 22-07-2025  11:42 AM           118,784 remotepg.dll
 07-05-2022  10:49 AM            36,864 RemotePosWorker.exe
 22-07-2025  11:42 AM           151,552 RemoteRemediationCSP.dll
@@ -3042,6 +3066,7 @@
 22-07-2025  11:41 AM            94,208 RemovableMediaProvisioningPlugin.dll
 22-07-2025  11:42 AM           102,400 RemoveDeviceContextHandler.dll
 07-05-2022  10:50 AM            36,864 RemoveDeviceElevated.dll
+07-05-2022  10:50 AM               256 removerootporterr.mof
 22-07-2025  11:42 AM            16,384 rendezvousSession.tlb
 22-07-2025  11:42 AM           151,552 repair-bde.exe
 07-05-2022  10:50 AM            40,960 replace.exe
@@ -3087,6 +3112,7 @@
 07-05-2022  10:49 AM            73,728 RoamingSecurity.dll
 22-07-2025  11:42 AM           180,224 Robocopy.exe
 22-07-2025  11:41 AM           223,160 rometadata.dll
+07-05-2022  10:50 AM             3,468 rootporterr.mof
 07-05-2022  10:50 AM            69,632 RotMgr.dll
 22-07-2025  11:42 AM            45,056 ROUTE.EXE
 22-07-2025  11:41 AM           139,264 RpcEpMap.dll
@@ -3104,13 +3130,14 @@
 22-07-2025  11:41 AM           237,568 RstrtMgr.dll
 22-07-2025  11:42 AM           294,912 rstrui.exe
 22-07-2025  11:41 AM           102,400 rtffilt.dll
-26-06-2024  10:33 PM           306,632 RTHDASIO64.dll
+14-05-2025  06:39 PM           313,304 RTHDASIO64.dll
 22-07-2025  11:41 AM           204,800 rtm.dll
 07-05-2022  10:49 AM         1,091,936 rtmcodecs.dll
 22-07-2025  11:41 AM           528,384 RTMediaFrame.dll
 07-05-2022  10:49 AM            56,672 rtmmvrortc.dll
 07-05-2022  10:49 AM         1,354,080 rtmpal.dll
 07-05-2022  10:49 AM         4,898,144 rtmpltfm.dll
+22-07-2025  11:42 AM            99,768 rtpm.dll
 22-07-2025  11:41 AM            90,112 rtutils.dll
 07-05-2022  10:48 AM           203,856 RTWorkQ.dll
 22-07-2025  11:45 AM    <DIR>          ru-RU
@@ -3129,6 +3156,7 @@
 22-07-2025  11:42 AM         1,052,672 sbe.dll
 22-07-2025  11:42 AM           212,992 sbeio.dll
 07-05-2022  10:50 AM            73,728 sberes.dll
+22-07-2025  11:42 AM            59,400 sbresources.dll
 22-07-2025  11:41 AM            40,960 sbservicetrigger.dll
 07-05-2022  10:50 AM            98,304 sc.exe
 07-05-2022  10:50 AM           307,200 scansetting.dll
@@ -3175,6 +3203,7 @@
 22-07-2025  11:41 AM            90,112 SebBackgroundManagerPolicy.dll
 22-07-2025  11:42 AM         1,439,104 SecConfig.efi
 07-05-2022  10:49 AM            61,440 SecEdit.exe
+07-05-2022  02:42 PM           132,456 secfw_AuthenticAMD.dll
 22-07-2025  11:41 AM           699,800 sechost.dll
 07-05-2022  10:49 AM            28,672 secinit.exe
 22-07-2025  11:41 AM            53,248 seclogon.dll
@@ -3360,7 +3389,7 @@
 22-07-2025  11:45 AM    <DIR>          sl-SI
 22-07-2025  11:41 AM           192,512 slc.dll
 22-07-2025  11:41 AM            45,056 slcext.dll
-28-07-2025  11:22 AM    <DIR>          SleepStudy
+29-07-2025  10:35 AM    <DIR>          SleepStudy
 07-05-2022  10:49 AM            38,576 SlideToShutDown.exe
 07-05-2022  01:00 PM    <DIR>          slmgr
 07-05-2022  10:49 AM           142,904 slmgr.vbs
@@ -3462,7 +3491,7 @@
 07-05-2022  01:09 PM            61,440 SrpUxNativeSnapIn.dll
 07-05-2022  10:50 AM           237,568 srrstr.dll
 07-05-2022  10:50 AM            77,824 SrTasks.exe
-28-07-2025  02:26 PM    <DIR>          sru
+29-07-2025  11:47 AM    <DIR>          sru
 07-05-2022  10:50 AM            81,920 srumapi.dll
 07-05-2022  10:50 AM           262,144 srumsvc.dll
 22-07-2025  11:41 AM           142,040 srvcli.dll
@@ -3668,6 +3697,8 @@
 22-07-2025  11:41 AM            12,288 TpmCertResources.dll
 07-05-2022  10:49 AM            65,536 tpmcompc.dll
 22-07-2025  11:41 AM         1,581,056 TpmCoreProvisioning.dll
+22-07-2025  11:42 AM           352,712 TpmEngUM.dll
+22-07-2025  11:42 AM           307,288 TpmEngUM138.dll
 07-05-2022  10:49 AM            90,112 TpmInit.exe
 22-07-2025  11:41 AM           565,248 TpmTasks.dll
 22-07-2025  11:41 AM           172,032 TpmTool.exe
@@ -3896,25 +3927,75 @@
 22-07-2025  11:41 AM           294,912 VideoHandlers.dll
 22-07-2025  11:42 AM           141,960 VIDRESZR.DLL
 22-07-2025  11:41 AM            99,744 virtdisk.dll
+07-05-2022  02:42 PM           144,967 virtmgmt.msc
 22-07-2025  11:42 AM           126,976 VirtualMonitorManager.dll
 22-07-2025  11:41 AM           139,264 VirtualSurroundApo.dll
 22-07-2025  11:42 AM            50,560 VmApplicationHealthMonitorProxy.dll
 22-07-2025  11:42 AM            79,944 vmbuspipe.dll
+22-07-2025  11:42 AM            71,072 vmbuspiper.dll
+22-07-2025  11:42 AM           255,416 vmbusvdev.dll
+22-07-2025  11:42 AM         1,107,328 vmchipset.dll
+22-07-2025  11:42 AM           800,160 vmcompute.dll
+22-07-2025  11:42 AM         4,167,072 vmcompute.exe
+07-05-2022  02:42 PM            42,344 vmcomputeeventlog.dll
+22-07-2025  11:42 AM         1,108,480 vmconnect.exe
+22-07-2025  11:42 AM           316,832 VmCrashDump.dll
+22-07-2025  11:42 AM           710,088 VmDataStore.dll
+22-07-2025  11:42 AM           198,048 vmdebug.dll
 22-07-2025  11:42 AM           270,336 vmdevicehost.dll
+22-07-2025  11:42 AM           406,944 vmdynmem.dll
+22-07-2025  11:42 AM         1,369,512 vmemulateddevices.dll
+22-07-2025  11:42 AM           406,944 VmEmulatedNic.dll
+22-07-2025  11:42 AM           701,880 VmEmulatedStorage.dll
+07-05-2022  02:42 PM             6,658 VmFirmware Third-Party Notices.txt
+22-07-2025  11:42 AM         6,436,344 vmfirmware.dll
+07-05-2022  02:42 PM             6,658 VmFirmwareHcl Third-Party Notices.txt
+22-07-2025  11:42 AM        15,578,552 vmfirmwarehcl.dll
+07-05-2022  02:42 PM           284,000 vmfirmwarepcat.dll
+22-07-2025  11:42 AM           378,296 vmflexio.dll
+22-07-2025  11:42 AM           131,072 vmhbmgmt.dll
+22-07-2025  11:42 AM           128,416 vmhgs.dll
+22-07-2025  11:42 AM           366,024 vmiccore.dll
+22-07-2025  11:42 AM           251,312 vmicrdv.dll
 22-07-2025  11:42 AM            87,424 vmictimeprovider.dll
+22-07-2025  11:42 AM           320,944 vmicvdev.dll
+22-07-2025  11:42 AM        14,828,960 vmms.exe
+07-05-2022  02:42 PM            87,392 vmmsprox.dll
+07-05-2022  02:42 PM            67,520 vmplatformca.exe
+22-07-2025  11:42 AM           554,424 vmpmem.dll
+22-07-2025  11:42 AM           439,752 vmprox.dll
 22-07-2025  11:42 AM           487,424 vmrdvcore.dll
+22-07-2025  11:42 AM           628,152 vmserial.dll
 22-07-2025  11:42 AM           325,064 vmsif.dll
 22-07-2025  11:42 AM           148,936 vmsifcore.dll
 22-07-2025  11:42 AM            46,552 vmsifproxystub.dll
+22-07-2025  11:42 AM           435,632 vmsmb.dll
+07-05-2022  02:42 PM           191,480 vmsp.exe
+22-07-2025  11:42 AM            94,208 vmstaging.dll
+22-07-2025  11:42 AM           279,968 vmsynthfcvdev.dll
+22-07-2025  11:42 AM           398,792 VmSynthNic.dll
+22-07-2025  11:42 AM           509,368 vmsynthstor.dll
+22-07-2025  11:42 AM           251,320 vmtpm.dll
+22-07-2025  11:42 AM           628,120 vmuidevices.dll
+22-07-2025  11:42 AM           705,992 vmusrv.dll
+22-07-2025  11:42 AM           169,376 vmvirtio.dll
+22-07-2025  11:42 AM           458,752 vmvpci.dll
+22-07-2025  11:42 AM         3,017,816 vmwp.exe
+22-07-2025  11:42 AM           120,264 vmwpctrl.dll
+07-05-2022  02:42 PM           124,240 vmwpevents.dll
 22-07-2025  11:41 AM           180,224 VocabRoamingHandler.dll
 22-07-2025  11:41 AM           315,392 VoiceAccess.exe
 22-07-2025  11:41 AM           118,784 VoiceActivationManager.dll
 22-07-2025  11:41 AM           196,608 VoipRT.dll
+22-07-2025  11:42 AM           329,144 vp9fs.dll
+22-07-2025  11:42 AM           243,120 vpcievdev.dll
 22-07-2025  11:41 AM           700,416 vpnike.dll
 07-05-2022  10:49 AM            77,824 vpnikeapi.dll
 07-05-2022  10:49 AM            32,768 VpnSohDesktop.dll
 22-07-2025  11:41 AM           245,760 VPNv2CSP.dll
+22-07-2025  11:42 AM            50,656 VrdUmed.dll
 07-05-2022  10:49 AM            36,864 VscMgrPS.dll
+22-07-2025  11:42 AM           628,152 vsconfig.dll
 07-05-2022  10:50 AM           163,840 vssadmin.exe
 22-07-2025  11:41 AM         1,650,688 vssapi.dll
 07-05-2022  10:49 AM            94,208 vsstrace.dll
@@ -3938,7 +4019,7 @@
 22-07-2025  11:41 AM            45,056 WallpaperHost.exe
 22-07-2025  11:42 AM           286,720 wavemsp.dll
 07-05-2022  10:50 AM           344,064 wbadmin.exe
-22-07-2025  12:04 PM    <DIR>          wbem
+29-07-2025  10:45 AM    <DIR>          wbem
 22-07-2025  11:41 AM           512,000 wbemcomn.dll
 22-07-2025  11:42 AM         1,560,576 wbengine.exe
 22-07-2025  11:41 AM           954,368 wbiosrvc.dll
@@ -3956,7 +4037,7 @@
 22-07-2025  11:41 AM           344,064 wcnwiz.dll
 22-07-2025  11:41 AM           319,488 wc_storage.dll
 22-07-2025  11:42 AM           864,256 wdc.dll
-24-07-2025  06:25 PM    <DIR>          WDI
+29-07-2025  10:38 AM    <DIR>          WDI
 07-05-2022  10:49 AM           114,688 wdi.dll
 22-07-2025  11:41 AM           327,680 wdigest.dll
 22-07-2025  11:41 AM           278,528 wdmaud.drv
@@ -4287,6 +4368,8 @@
 07-05-2022  10:49 AM           290,816 WindowsCodecsExt.dll
 22-07-2025  11:41 AM           151,552 WindowsDefaultHeatProcessor.dll
 22-07-2025  11:42 AM           193,976 windowsdefenderapplicationguardcsp.dll
+07-05-2022  02:42 PM         1,153,282 WindowsHyperVCluster.V2.mof
+07-05-2022  10:50 AM               154 WindowsHyperVClusterUninstall.mof
 22-07-2025  11:41 AM           892,928 WindowsInternal.ComposableShell.Display.dll
 22-07-2025  11:41 AM           106,496 WindowsInternal.Shell.CompUiActivation.dll
 07-05-2022  01:09 PM            53,248 WindowsIoTCsp.dll
@@ -4298,6 +4381,8 @@
 22-07-2025  11:41 AM         5,861,376 windowsudk.shellcommon.dll
 22-07-2025  11:41 AM           118,784 windowsudkservices.shellcommon.dll
 22-07-2025  11:41 AM            65,536 WindowsUpdateElevatedInstaller.exe
+07-05-2022  02:42 PM         1,585,236 WindowsVirtualization.V2.mof
+07-05-2022  10:50 AM               155 WindowsVirtualizationUninstall.mof
 22-07-2025  11:42 AM           126,976 winethc.dll
 07-05-2022  11:12 AM    <DIR>          winevt
 22-07-2025  11:42 AM            90,112 WinFax.dll
@@ -4618,5 +4703,5 @@
 22-07-2025  11:41 AM           102,400 zipcontainer.dll
 22-07-2025  11:41 AM           614,400 zipfldr.dll
 22-07-2025  11:41 AM            53,248 ztrace_maps.dll
-            4478 File(s)  2,228,422,956 bytes
-             137 Dir(s)  210,839,240,704 bytes free
+            4562 File(s)  2,301,045,502 bytes
+             138 Dir(s)  209,989,668,864 bytes free
