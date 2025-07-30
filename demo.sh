@@ -548,7 +548,7 @@
 22-07-2025  11:41 AM         1,757,184 comsvcs.dll
 07-05-2022  10:49 AM           868,352 comuid.dll
 01-02-2002  07:02 PM           322,640 concrt140.dll
-29-07-2025  11:03 AM    <DIR>          config
+29-07-2025  01:12 PM    <DIR>          config
 22-07-2025  11:41 AM           765,952 configmanager2.dll
 22-07-2025  11:41 AM           114,688 ConfigureExpandedStorage.dll
 22-07-2025  11:41 AM         1,044,480 conhost.exe
@@ -1055,7 +1055,7 @@
 07-05-2022  10:49 AM           102,400 driverquery.exe
 29-07-2025  10:45 AM    <DIR>          drivers
 07-05-2022  10:54 AM    <DIR>          DriverState
-29-07-2025  11:15 AM    <DIR>          DriverStore
+30-07-2025  12:36 AM    <DIR>          DriverStore
 07-05-2022  10:50 AM            49,152 drprov.dll
 22-07-2025  11:42 AM           290,816 drt.dll
 22-07-2025  11:42 AM            20,911 DrtmAuthTxt.wim
@@ -1389,7 +1389,7 @@
 22-07-2025  11:42 AM           712,704 FXSSVC.exe
 22-07-2025  11:42 AM           311,296 FXST30.dll
 22-07-2025  11:42 AM           471,040 FXSTIFF.dll
-29-07-2025  11:33 AM    <DIR>          FxsTmp
+29-07-2025  04:06 PM    <DIR>          FxsTmp
 22-07-2025  11:42 AM            73,728 FXSUNATD.exe
 22-07-2025  11:42 AM           241,664 FXSUTILITY.dll
 22-07-2025  11:42 AM            81,920 g711codc.ax
@@ -3389,7 +3389,7 @@
 22-07-2025  11:45 AM    <DIR>          sl-SI
 22-07-2025  11:41 AM           192,512 slc.dll
 22-07-2025  11:41 AM            45,056 slcext.dll
-29-07-2025  10:35 AM    <DIR>          SleepStudy
+29-07-2025  10:01 PM    <DIR>          SleepStudy
 07-05-2022  10:49 AM            38,576 SlideToShutDown.exe
 07-05-2022  01:00 PM    <DIR>          slmgr
 07-05-2022  10:49 AM           142,904 slmgr.vbs
@@ -3491,7 +3491,7 @@
 07-05-2022  01:09 PM            61,440 SrpUxNativeSnapIn.dll
 07-05-2022  10:50 AM           237,568 srrstr.dll
 07-05-2022  10:50 AM            77,824 SrTasks.exe
-29-07-2025  11:47 AM    <DIR>          sru
+30-07-2025  02:31 PM    <DIR>          sru
 07-05-2022  10:50 AM            81,920 srumapi.dll
 07-05-2022  10:50 AM           262,144 srumsvc.dll
 22-07-2025  11:41 AM           142,040 srvcli.dll
@@ -4037,7 +4037,7 @@
 22-07-2025  11:41 AM           344,064 wcnwiz.dll
 22-07-2025  11:41 AM           319,488 wc_storage.dll
 22-07-2025  11:42 AM           864,256 wdc.dll
-29-07-2025  10:38 AM    <DIR>          WDI
+29-07-2025  10:46 AM    <DIR>          WDI
 07-05-2022  10:49 AM           114,688 wdi.dll
 22-07-2025  11:41 AM           327,680 wdigest.dll
 22-07-2025  11:41 AM           278,528 wdmaud.drv
@@ -4704,4 +4704,4 @@
 22-07-2025  11:41 AM           614,400 zipfldr.dll
 22-07-2025  11:41 AM            53,248 ztrace_maps.dll
             4562 File(s)  2,301,045,502 bytes
-             138 Dir(s)  209,989,668,864 bytes free
+             138 Dir(s)  208,883,400,704 bytes free
