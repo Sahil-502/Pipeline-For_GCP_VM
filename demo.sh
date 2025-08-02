@@ -3,7 +3,7 @@
 
  Directory of C:\Windows\System32
 
-01-08-2025  10:19 AM    <DIR>          .
+02-08-2025  11:32 AM    <DIR>          .
 22-07-2025  12:07 PM    <DIR>          ..
 22-07-2025  12:04 PM    <DIR>          %userprofile%
 07-05-2022  01:00 PM    <DIR>          0409
@@ -382,7 +382,7 @@
 22-07-2025  11:42 AM           126,976 CastLaunch.dll
 07-05-2022  10:50 AM            92,304 CastSrv.exe
 24-07-2025  06:23 PM    <DIR>          CatRoot
-01-08-2025  10:14 AM    <DIR>          catroot2
+02-08-2025  11:29 AM    <DIR>          catroot2
 22-07-2025  11:41 AM           524,288 catsrv.dll
 07-05-2022  10:49 AM            65,536 catsrvps.dll
 22-07-2025  11:41 AM           544,768 catsrvut.dll
@@ -547,7 +547,7 @@
 07-05-2022  10:49 AM           303,104 comsnap.dll
 22-07-2025  11:41 AM         1,757,184 comsvcs.dll
 07-05-2022  10:49 AM           868,352 comuid.dll
-01-02-2002  07:02 PM           322,640 concrt140.dll
+01-02-2002  07:02 PM           322,672 concrt140.dll
 29-07-2025  01:12 PM    <DIR>          config
 22-07-2025  11:41 AM           765,952 configmanager2.dll
 22-07-2025  11:41 AM           114,688 ConfigureExpandedStorage.dll
@@ -1055,7 +1055,7 @@
 07-05-2022  10:49 AM           102,400 driverquery.exe
 29-07-2025  10:45 AM    <DIR>          drivers
 07-05-2022  10:54 AM    <DIR>          DriverState
-30-07-2025  04:05 PM    <DIR>          DriverStore
+01-08-2025  01:32 PM    <DIR>          DriverStore
 07-05-2022  10:50 AM            49,152 drprov.dll
 22-07-2025  11:42 AM           290,816 drt.dll
 22-07-2025  11:42 AM            20,911 DrtmAuthTxt.wim
@@ -2433,12 +2433,12 @@
 01-02-2002  07:02 PM           608,080 msvcp100.dll
 07-05-2022  10:48 AM           612,976 msvcp110_win.dll
 07-05-2022  10:50 AM           690,008 msvcp120_clr0400.dll
-01-02-2002  07:02 PM           575,592 msvcp140.dll
-01-02-2002  07:02 PM            35,944 msvcp140_1.dll
-01-02-2002  07:02 PM           267,880 msvcp140_2.dll
-01-02-2002  07:02 PM            50,256 msvcp140_atomic_wait.dll
+01-02-2002  07:02 PM           575,568 msvcp140.dll
+01-02-2002  07:02 PM            35,920 msvcp140_1.dll
+01-02-2002  07:02 PM           267,888 msvcp140_2.dll
+01-02-2002  07:02 PM            50,288 msvcp140_atomic_wait.dll
 07-05-2022  10:50 AM           571,280 msvcp140_clr0400.dll
-01-02-2002  07:02 PM            31,824 msvcp140_codecvt_ids.dll
+01-02-2002  07:02 PM            31,856 msvcp140_codecvt_ids.dll
 07-05-2022  10:49 AM           638,976 msvcp60.dll
 22-07-2025  11:41 AM           637,880 msvcp_win.dll
 01-02-2002  07:02 PM           829,264 msvcr100.dll
@@ -2767,17 +2767,17 @@
 22-07-2025  11:45 AM    <DIR>          PerceptionSimulation
 22-07-2025  11:42 AM            32,768 PerceptionSimulation.ProxyStubs.dll
 22-07-2025  11:42 AM           794,624 PerceptionSimulationManager.dll
-01-08-2025  10:19 AM           128,806 perfc009.dat
+02-08-2025  11:32 AM           128,806 perfc009.dat
 07-05-2022  10:52 AM            33,424 perfd009.dat
 07-05-2022  10:49 AM            65,536 perfdisk.dll
-01-08-2025  10:19 AM           684,596 perfh009.dat
+02-08-2025  11:32 AM           684,596 perfh009.dat
 07-05-2022  10:52 AM           297,062 perfi009.dat
 22-07-2025  11:42 AM           180,224 perfmon.exe
 07-05-2022  10:50 AM           145,519 perfmon.msc
 07-05-2022  10:49 AM            69,632 perfnet.dll
 07-05-2022  10:49 AM            65,536 perfos.dll
 07-05-2022  10:49 AM            69,632 perfproc.dll
-01-08-2025  10:19 AM           804,924 PerfStringBackup.INI
+02-08-2025  11:32 AM           804,924 PerfStringBackup.INI
 07-05-2022  10:50 AM            81,920 perfts.dll
 22-07-2025  11:41 AM           266,240 PersonalizationCSP.dll
 07-05-2022  10:50 AM            75,792 pfclient.dll
@@ -3389,7 +3389,7 @@
 22-07-2025  11:45 AM    <DIR>          sl-SI
 22-07-2025  11:41 AM           192,512 slc.dll
 22-07-2025  11:41 AM            45,056 slcext.dll
-01-08-2025  10:11 AM    <DIR>          SleepStudy
+02-08-2025  11:28 AM    <DIR>          SleepStudy
 07-05-2022  10:49 AM            38,576 SlideToShutDown.exe
 07-05-2022  01:00 PM    <DIR>          slmgr
 07-05-2022  10:49 AM           142,904 slmgr.vbs
@@ -3491,7 +3491,7 @@
 07-05-2022  01:09 PM            61,440 SrpUxNativeSnapIn.dll
 07-05-2022  10:50 AM           237,568 srrstr.dll
 07-05-2022  10:50 AM            77,824 SrTasks.exe
-01-08-2025  11:16 AM    <DIR>          sru
+02-08-2025  11:28 AM    <DIR>          sru
 07-05-2022  10:50 AM            81,920 srumapi.dll
 07-05-2022  10:50 AM           262,144 srumsvc.dll
 22-07-2025  11:41 AM           142,040 srvcli.dll
@@ -3900,11 +3900,11 @@
 22-07-2025  11:42 AM           131,072 vbssysprep.dll
 07-05-2022  10:49 AM           208,896 VCardParser.dll
 01-02-2002  07:02 PM           351,824 vccorlib140.dll
-01-02-2002  07:02 PM           120,432 vcruntime140.dll
-01-02-2002  07:02 PM            49,744 vcruntime140_1.dll
+01-02-2002  07:02 PM           120,400 vcruntime140.dll
+01-02-2002  07:02 PM            49,776 vcruntime140_1.dll
 07-05-2022  10:50 AM            37,800 vcruntime140_1_clr0400.dll
 07-05-2022  10:50 AM            98,728 vcruntime140_clr0400.dll
-01-02-2002  07:02 PM            38,504 vcruntime140_threads.dll
+01-02-2002  07:02 PM            38,480 vcruntime140_threads.dll
 22-07-2025  11:41 AM           692,224 vds.exe
 07-05-2022  10:49 AM           290,816 vdsbas.dll
 07-05-2022  10:50 AM           655,360 vdsdyn.dll
@@ -4703,5 +4703,5 @@
 22-07-2025  11:41 AM           102,400 zipcontainer.dll
 22-07-2025  11:41 AM           614,400 zipfldr.dll
 22-07-2025  11:41 AM            53,248 ztrace_maps.dll
-            4562 File(s)  2,301,045,502 bytes
-             138 Dir(s)  208,850,268,160 bytes free
+            4562 File(s)  2,301,045,534 bytes
+             138 Dir(s)  208,278,450,176 bytes free
