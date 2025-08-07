@@ -381,8 +381,8 @@
 07-05-2022  01:09 PM           118,784 CastingShellExt.dll
 22-07-2025  11:42 AM           126,976 CastLaunch.dll
 07-05-2022  10:50 AM            92,304 CastSrv.exe
-24-07-2025  06:23 PM    <DIR>          CatRoot
-04-08-2025  11:00 AM    <DIR>          catroot2
+07-08-2025  11:09 AM    <DIR>          CatRoot
+07-08-2025  11:09 AM    <DIR>          catroot2
 22-07-2025  11:41 AM           524,288 catsrv.dll
 07-05-2022  10:49 AM            65,536 catsrvps.dll
 22-07-2025  11:41 AM           544,768 catsrvut.dll
@@ -3389,7 +3389,7 @@
 22-07-2025  11:45 AM    <DIR>          sl-SI
 22-07-2025  11:41 AM           192,512 slc.dll
 22-07-2025  11:41 AM            45,056 slcext.dll
-06-08-2025  11:56 AM    <DIR>          SleepStudy
+07-08-2025  08:59 AM    <DIR>          SleepStudy
 07-05-2022  10:49 AM            38,576 SlideToShutDown.exe
 07-05-2022  01:00 PM    <DIR>          slmgr
 07-05-2022  10:49 AM           142,904 slmgr.vbs
@@ -3491,7 +3491,7 @@
 07-05-2022  01:09 PM            61,440 SrpUxNativeSnapIn.dll
 07-05-2022  10:50 AM           237,568 srrstr.dll
 07-05-2022  10:50 AM            77,824 SrTasks.exe
-06-08-2025  11:42 AM    <DIR>          sru
+07-08-2025  01:40 PM    <DIR>          sru
 07-05-2022  10:50 AM            81,920 srumapi.dll
 07-05-2022  10:50 AM           262,144 srumsvc.dll
 22-07-2025  11:41 AM           142,040 srvcli.dll
@@ -4704,4 +4704,4 @@
 22-07-2025  11:41 AM           614,400 zipfldr.dll
 22-07-2025  11:41 AM            53,248 ztrace_maps.dll
             4562 File(s)  2,301,045,534 bytes
-             138 Dir(s)  232,779,542,528 bytes free
+             138 Dir(s)  228,005,343,232 bytes free
