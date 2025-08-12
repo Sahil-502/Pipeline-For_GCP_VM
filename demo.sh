@@ -13,4 +13,4 @@
 24-06-2025  11:43 AM    <DIR>          Pipeline-For_Public_GKE_Cluster
 24-06-2025  12:05 PM               388 Pipeline-For_Public_GKE_Cluster.bat
                4 File(s)          1,512 bytes
-               5 Dir(s)  87,890,632,704 bytes free
+               5 Dir(s)  87,890,616,320 bytes free
