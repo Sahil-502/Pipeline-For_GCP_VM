@@ -3389,7 +3389,7 @@
 22-07-2025  11:45 AM    <DIR>          sl-SI
 22-07-2025  11:41 AM           192,512 slc.dll
 22-07-2025  11:41 AM            45,056 slcext.dll
-11-08-2025  10:35 AM    <DIR>          SleepStudy
+12-08-2025  10:25 AM    <DIR>          SleepStudy
 07-05-2022  10:49 AM            38,576 SlideToShutDown.exe
 07-05-2022  01:00 PM    <DIR>          slmgr
 07-05-2022  10:49 AM           142,904 slmgr.vbs
@@ -3491,7 +3491,7 @@
 07-05-2022  01:09 PM            61,440 SrpUxNativeSnapIn.dll
 07-05-2022  10:50 AM           237,568 srrstr.dll
 07-05-2022  10:50 AM            77,824 SrTasks.exe
-11-08-2025  12:02 PM    <DIR>          sru
+12-08-2025  11:09 AM    <DIR>          sru
 07-05-2022  10:50 AM            81,920 srumapi.dll
 07-05-2022  10:50 AM           262,144 srumsvc.dll
 22-07-2025  11:41 AM           142,040 srvcli.dll
@@ -4704,4 +4704,4 @@
 22-07-2025  11:41 AM           614,400 zipfldr.dll
 22-07-2025  11:41 AM            53,248 ztrace_maps.dll
             4562 File(s)  2,301,045,534 bytes
-             138 Dir(s)  231,445,377,024 bytes free
+             138 Dir(s)  231,395,004,416 bytes free
