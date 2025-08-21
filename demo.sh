@@ -3,7 +3,7 @@
 
  Directory of C:\Windows\System32
 
-19-08-2025  07:44 PM    <DIR>          .
+20-08-2025  09:05 PM    <DIR>          .
 14-08-2025  04:46 PM    <DIR>          ..
 22-07-2025  12:04 PM    <DIR>          %userprofile%
 07-05-2022  01:00 PM    <DIR>          0409
@@ -382,7 +382,7 @@
 22-07-2025  11:42 AM           126,976 CastLaunch.dll
 07-05-2022  10:50 AM            92,304 CastSrv.exe
 08-08-2025  10:21 AM    <DIR>          CatRoot
-19-08-2025  07:40 PM    <DIR>          catroot2
+20-08-2025  02:52 PM    <DIR>          catroot2
 22-07-2025  11:41 AM           524,288 catsrv.dll
 07-05-2022  10:49 AM            65,536 catsrvps.dll
 22-07-2025  11:41 AM           544,768 catsrvut.dll
@@ -1053,7 +1053,7 @@
 22-07-2025  11:42 AM            73,728 DragDropExperienceCommon.dll
 22-07-2025  11:42 AM            73,728 DragDropExperienceDataExchangeDelegated.dll
 07-05-2022  10:49 AM           102,400 driverquery.exe
-14-08-2025  04:46 PM    <DIR>          drivers
+20-08-2025  02:06 PM    <DIR>          drivers
 07-05-2022  10:54 AM    <DIR>          DriverState
 14-08-2025  04:46 PM    <DIR>          DriverStore
 07-05-2022  10:50 AM            49,152 drprov.dll
@@ -2767,17 +2767,17 @@
 22-07-2025  11:45 AM    <DIR>          PerceptionSimulation
 22-07-2025  11:42 AM            32,768 PerceptionSimulation.ProxyStubs.dll
 22-07-2025  11:42 AM           794,624 PerceptionSimulationManager.dll
-19-08-2025  07:44 PM           128,806 perfc009.dat
+20-08-2025  09:05 PM           128,806 perfc009.dat
 07-05-2022  10:52 AM            33,424 perfd009.dat
 07-05-2022  10:49 AM            65,536 perfdisk.dll
-19-08-2025  07:44 PM           684,596 perfh009.dat
+20-08-2025  09:05 PM           684,596 perfh009.dat
 07-05-2022  10:52 AM           297,062 perfi009.dat
 22-07-2025  11:42 AM           180,224 perfmon.exe
 07-05-2022  10:50 AM           145,519 perfmon.msc
 07-05-2022  10:49 AM            69,632 perfnet.dll
 07-05-2022  10:49 AM            65,536 perfos.dll
 07-05-2022  10:49 AM            69,632 perfproc.dll
-19-08-2025  07:44 PM           804,924 PerfStringBackup.INI
+20-08-2025  09:05 PM           804,924 PerfStringBackup.INI
 07-05-2022  10:50 AM            81,920 perfts.dll
 22-07-2025  11:41 AM           266,240 PersonalizationCSP.dll
 07-05-2022  10:50 AM            75,792 pfclient.dll
@@ -2822,6 +2822,7 @@
 22-07-2025  11:42 AM           319,488 PlayToReceiver.dll
 07-05-2022  10:50 AM            57,344 PlayToStatusProvider.dll
 07-05-2022  10:49 AM            87,384 ploptin.dll
+20-08-2025  06:32 PM             1,298 plutos-ssl
 22-07-2025  11:42 AM           839,680 pmcsnap.dll
 07-05-2022  10:50 AM            94,208 pngfilt.dll
 22-07-2025  11:41 AM         2,138,112 pnidui.dll
@@ -3389,7 +3390,7 @@
 22-07-2025  11:45 AM    <DIR>          sl-SI
 22-07-2025  11:41 AM           192,512 slc.dll
 22-07-2025  11:41 AM            45,056 slcext.dll
-20-08-2025  01:47 AM    <DIR>          SleepStudy
+20-08-2025  11:01 PM    <DIR>          SleepStudy
 07-05-2022  10:49 AM            38,576 SlideToShutDown.exe
 07-05-2022  01:00 PM    <DIR>          slmgr
 07-05-2022  10:49 AM           142,904 slmgr.vbs
@@ -3491,7 +3492,7 @@
 07-05-2022  01:09 PM            61,440 SrpUxNativeSnapIn.dll
 07-05-2022  10:50 AM           237,568 srrstr.dll
 07-05-2022  10:50 AM            77,824 SrTasks.exe
-20-08-2025  11:11 AM    <DIR>          sru
+21-08-2025  11:37 AM    <DIR>          sru
 07-05-2022  10:50 AM            81,920 srumapi.dll
 07-05-2022  10:50 AM           262,144 srumsvc.dll
 22-07-2025  11:41 AM           142,040 srvcli.dll
@@ -4703,5 +4704,5 @@
 22-07-2025  11:41 AM           102,400 zipcontainer.dll
 13-08-2025  10:30 AM           614,400 zipfldr.dll
 22-07-2025  11:41 AM            53,248 ztrace_maps.dll
-            4562 File(s)  2,308,216,460 bytes
-             138 Dir(s)  224,483,848,192 bytes free
+            4563 File(s)  2,308,217,758 bytes
+             138 Dir(s)  223,900,164,096 bytes free
