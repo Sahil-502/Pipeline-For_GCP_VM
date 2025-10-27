@@ -4,7 +4,6 @@
  Directory of D:\Git-502
 
 05-10-2025  05:13 PM    <DIR>          .
-05-10-2025  05:13 PM    <DIR>          ..
 05-10-2025  11:27 PM    <DIR>          cicd-private-gke
 05-10-2025  11:27 PM               384 cicd-private-gke.bat
 05-10-2025  11:29 PM    <DIR>          cloudrun-gke-bridge
@@ -19,4 +18,4 @@
 05-10-2025  11:29 PM    <DIR>          pvt-repo
 05-10-2025  11:28 PM               368 pvt-repo.bat
                6 File(s)          2,328 bytes
-               9 Dir(s)  118,974,341,120 bytes free
+               8 Dir(s)  118,974,328,832 bytes free
